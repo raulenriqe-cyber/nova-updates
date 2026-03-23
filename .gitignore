@@ -1,0 +1,18 @@
+# NOVA Trading AI — Updates Repository
+# .gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups del updater
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

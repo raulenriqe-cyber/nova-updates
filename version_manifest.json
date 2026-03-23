@@ -1,0 +1,108 @@
+{
+  "version": "5.0.0",
+  "released_at": "2026-03-23T23:45:54.982730+00:00",
+  "total_files": 14,
+  "total_size_kb": 310.7,
+  "min_version": "5.0.0",
+  "release_notes": "NOVA v5.0.0 - Actualización automática",
+  "files": [
+    {
+      "local_path": "nova_dashboard.py",
+      "remote_path": "nova_dashboard.py",
+      "sha256": "f3f58a34af7c63b273d54946892cbb4d0db8f907156e544e87f222f7130029c8",
+      "size_kb": 135.0,
+      "category": "dashboard"
+    },
+    {
+      "local_path": "nova_diagnostics.py",
+      "remote_path": "nova_diagnostics.py",
+      "sha256": "6ec0b10ce7b21b1e103ade6a762f1aa4eedec391b1669388bda6627c1ab7fb40",
+      "size_kb": 37.8,
+      "category": "dashboard"
+    },
+    {
+      "local_path": "nova_updater.py",
+      "remote_path": "nova_updater.py",
+      "sha256": "17e55eb2ceaaf39cce62bc490c40c9b44c51aae39d71e1dd85b12f73c363e824",
+      "size_kb": 11.9,
+      "category": "dashboard"
+    },
+    {
+      "local_path": "license_manager.py",
+      "remote_path": "license_manager.py",
+      "sha256": "9d0312babd4a02d29d8da618a1c4f6d97cf25e87ec3607c47370ca00f8c5fa91",
+      "size_kb": 24.7,
+      "category": "dashboard"
+    },
+    {
+      "local_path": "services/dashboard_action_controller.py",
+      "remote_path": "services/dashboard_action_controller.py",
+      "sha256": "6d542665375c2e0d8a59d5c167d0c551671786807b6aba54f96bb5bcc52bc526",
+      "size_kb": 3.1,
+      "category": "services"
+    },
+    {
+      "local_path": "services/dashboard_body_builder.py",
+      "remote_path": "services/dashboard_body_builder.py",
+      "sha256": "f4983063fe38d075683f5928ee7ef68fae8ef3f6bed157495ae7b994e5ea6b94",
+      "size_kb": 20.0,
+      "category": "services"
+    },
+    {
+      "local_path": "services/dashboard_presenter.py",
+      "remote_path": "services/dashboard_presenter.py",
+      "sha256": "b7c00caf4b60148531459678895e6a8335bdd4dd7e04b49958d8761e3f93c9c3",
+      "size_kb": 14.8,
+      "category": "services"
+    },
+    {
+      "local_path": "services/license_service.py",
+      "remote_path": "services/license_service.py",
+      "sha256": "1050458e683ef3e10968905f683c65c023fd29018b77295ecc9899424642b5c8",
+      "size_kb": 2.1,
+      "category": "services"
+    },
+    {
+      "local_path": "services/mt5_service.py",
+      "remote_path": "services/mt5_service.py",
+      "sha256": "c708790b2d3100c1875f3a373eaf748a36f9b5138d40955932db144c3be7e3b8",
+      "size_kb": 15.1,
+      "category": "services"
+    },
+    {
+      "local_path": "services/path_service.py",
+      "remote_path": "services/path_service.py",
+      "sha256": "28c0b0afdde2c7dc75d6ce36710aada04d67153036217a010693087370e01215",
+      "size_kb": 3.3,
+      "category": "services"
+    },
+    {
+      "local_path": "services/runtime_manager.py",
+      "remote_path": "services/runtime_manager.py",
+      "sha256": "279c2517c81a07e987578a58b08ecd36f76b6ade1649e2ae66e6eda7ce6bc950",
+      "size_kb": 17.2,
+      "category": "services"
+    },
+    {
+      "local_path": "services/runtime_models.py",
+      "remote_path": "services/runtime_models.py",
+      "sha256": "9e0ce085fad271f3341a037f205edaea60d6912f833e229cf4f2b42b91a7faf2",
+      "size_kb": 0.3,
+      "category": "services"
+    },
+    {
+      "local_path": "services/telemetry_service.py",
+      "remote_path": "services/telemetry_service.py",
+      "sha256": "6d7591aa08abb568e0b290d08c85460b15f069516cccab081b4da0aa499cd3ea",
+      "size_kb": 25.4,
+      "category": "services"
+    },
+    {
+      "local_path": "services/__init__.py",
+      "remote_path": "services/__init__.py",
+      "sha256": "f8af822a32063b0c83f8d0b3d1bf3d2d0f9e5e139d24b930ff12c6328134f873",
+      "size_kb": 0.0,
+      "category": "services"
+    }
+  ]
+}
