@@ -2662,8 +2662,8 @@ class NOVADashboard(QMainWindow):
                 on_update_available = self._on_update_available,
                 on_progress         = self._on_update_progress,
                 on_complete         = self._on_update_complete,
-                on_error            = lambda msg: log.warning(f"[Updater] {msg}"),
-                on_no_update        = lambda: log.info("NOVA está al día."),
+                on_error            = lambda msg: logger.warning(f"[Updater] {msg}"),
+                on_no_update        = lambda: logger.info("NOVA está al día."),
             )
             QTimer.singleShot(3000, self._nova_updater.check_async)
         # Vignette underlay — keeps the cinematic dark falloff below the logo

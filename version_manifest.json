@@ -1,15 +1,15 @@
 {
-  "version": "5.0.0",
-  "released_at": "2026-03-23T23:45:54.982730+00:00",
-  "total_files": 14,
-  "total_size_kb": 310.7,
+  "version": "5.0.1",
+  "released_at": "2026-03-24T16:25:11.380191+00:00",
+  "total_files": 293,
+  "total_size_kb": 22406.3,
   "min_version": "5.0.0",
-  "release_notes": "NOVA v5.0.0 - Actualización automática",
+  "release_notes": "NOVA v5.0.1 - Actualización automática",
   "files": [
     {
       "local_path": "nova_dashboard.py",
       "remote_path": "nova_dashboard.py",
-      "sha256": "f3f58a34af7c63b273d54946892cbb4d0db8f907156e544e87f222f7130029c8",
+      "sha256": "a54eae956bdfebf679046e98e0f249aba2bd0648499a8cf121a63c2532983953",
       "size_kb": 135.0,
       "category": "dashboard"
     },
@@ -23,7 +23,7 @@
     {
       "local_path": "nova_updater.py",
       "remote_path": "nova_updater.py",
-      "sha256": "17e55eb2ceaaf39cce62bc490c40c9b44c51aae39d71e1dd85b12f73c363e824",
+      "sha256": "f971dd2c217bc75fde4a2267527757a2dc00c57b57cdfe1a010d00c47479fe1c",
       "size_kb": 11.9,
       "category": "dashboard"
     },
@@ -103,6 +103,1959 @@
       "sha256": "f8af822a32063b0c83f8d0b3d1bf3d2d0f9e5e139d24b930ff12c6328134f873",
       "size_kb": 0.0,
       "category": "services"
+    },
+    {
+      "local_path": "pares/audusd/audquantum_core.py",
+      "remote_path": "pares/audusd/audquantum_core.py",
+      "sha256": "0a696ccf4a42d865f254c11d19849c7c8d0e62cdf9215543569ff5109f9db65f",
+      "size_kb": 923.3,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audtrinity.py",
+      "remote_path": "pares/audusd/audtrinity.py",
+      "sha256": "8db1a28aa89c8988affdca343ceb4b828f480cf156cc9b6d4874e5a4e357519e",
+      "size_kb": 89.5,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audkraken1.py",
+      "remote_path": "pares/audusd/audkraken1.py",
+      "sha256": "48c8cfbdb355a64d9de63a17178a460767f8eab7f3dc9ee08e83c1f0b0a3d444",
+      "size_kb": 23.3,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm1.py",
+      "remote_path": "pares/audusd/audllm1.py",
+      "sha256": "0efc9e0c86000f66f9a8d911849e337d9818d897669e097cb21f41e7fa21d56e",
+      "size_kb": 68.3,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm2.py",
+      "remote_path": "pares/audusd/audllm2.py",
+      "sha256": "e871e5e63cc1cacdcf5de33bf99e33bcf114a827d788dc0ebdd41d6ae3da4d48",
+      "size_kb": 36.8,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm3.py",
+      "remote_path": "pares/audusd/audllm3.py",
+      "sha256": "058289cd81ac2d9154dd4c2182c5146955559cfde4f9ddce3fa072bf09ee78cb",
+      "size_kb": 46.8,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm4.py",
+      "remote_path": "pares/audusd/audllm4.py",
+      "sha256": "223a5ccf7ae723bfdff3a649a4d630f133e511e900079ff54402de3d86bc3f0b",
+      "size_kb": 55.6,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm5.py",
+      "remote_path": "pares/audusd/audllm5.py",
+      "sha256": "53bc83a79a2de7e96652b1a0e581e8ce4a3604b8a475daa9d4659bcebe503afb",
+      "size_kb": 52.1,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm6.py",
+      "remote_path": "pares/audusd/audllm6.py",
+      "sha256": "c4a76c03a616bda542d6ea8a0ecbf5432673ef0461940f335f82049419d8332f",
+      "size_kb": 54.4,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm7.py",
+      "remote_path": "pares/audusd/audllm7.py",
+      "sha256": "b399fe32db960b88e18fab30b347b1187b7eea897e8e3ac587d403fb03dd7291",
+      "size_kb": 11.7,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm8.py",
+      "remote_path": "pares/audusd/audllm8.py",
+      "sha256": "50f690d425d130e20d075a4241d89eecb42beaaa159c274f590c738c58e25306",
+      "size_kb": 14.2,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm9.py",
+      "remote_path": "pares/audusd/audllm9.py",
+      "sha256": "84bc182956ee2ef18a2bc6064017257eb4bdba908ca9b04d44a79c8dd0cf298b",
+      "size_kb": 27.6,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm10.py",
+      "remote_path": "pares/audusd/audllm10.py",
+      "sha256": "6ec9c040d1986167761d5da09ef51fc868499ea12e1c74ca56ee3eb76e8856da",
+      "size_kb": 49.1,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm11.py",
+      "remote_path": "pares/audusd/audllm11.py",
+      "sha256": "1b530dde4abd8a05c39bd1f7d2c0ef28b84bbb85be56cd62043b93f869048193",
+      "size_kb": 81.5,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audllm12.py",
+      "remote_path": "pares/audusd/audllm12.py",
+      "sha256": "bbab2ba4a8adfc3fe63ebe99820f98552c04ef5ae1778d5feaa0caa65736dd24",
+      "size_kb": 57.0,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/audsound.py",
+      "remote_path": "pares/audusd/audsound.py",
+      "sha256": "29d95abcd84c8d088d289069b06ac2dc6dc938a0c47b9c68b81da9c0ceb00a19",
+      "size_kb": 26.3,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/aud_config_loader.py",
+      "remote_path": "pares/audusd/aud_config_loader.py",
+      "sha256": "e29a2ac34fe8d1cca6fcab03920481ac7c16ecbd8c44030d69d824673b5c5bc1",
+      "size_kb": 9.2,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/news_intelligence.py",
+      "remote_path": "pares/audusd/news_intelligence.py",
+      "sha256": "6400abb3f745eee027eb3835dcf7b870dd632c8efd360a37d287f8d51658c24a",
+      "size_kb": 25.4,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/audusd/reinforcement_learning_engine.py",
+      "sha256": "7b6f5baf916779396d3afee6904a26ca1efcd625f70d90f81681be18b8f8472a",
+      "size_kb": 15.6,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/llm_cache_engine.py",
+      "remote_path": "pares/audusd/llm_cache_engine.py",
+      "sha256": "8b2f5b888ca270ae0cc46f12695871df19e25cd3ff9e6b32cb11565fefaf610c",
+      "size_kb": 17.9,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/llm_learning_feedback.py",
+      "remote_path": "pares/audusd/llm_learning_feedback.py",
+      "sha256": "e654119e6e99b35ca9571ab4129b525977821ba2de0699aba1ddf9f687ed13cb",
+      "size_kb": 18.9,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/supreme_consciousness.py",
+      "remote_path": "pares/audusd/supreme_consciousness.py",
+      "sha256": "7311cc562757cfd3a9aac5145a8c52e99854e04cd2732caac4e6786fb2585f73",
+      "size_kb": 50.3,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/audusd/advanced_patterns.py",
+      "remote_path": "pares/audusd/advanced_patterns.py",
+      "sha256": "b186b714b49d86b34d890b5af6daed1447bf9ea54ae67b8ed172e47eff4ecc65",
+      "size_kb": 11.4,
+      "category": "par_audusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcquantum_core.py",
+      "remote_path": "pares/btcusd/btcquantum_core.py",
+      "sha256": "539c3eefc1244d07b315507438b90c619098ff606b5f27cfbb6ea928ecb2376b",
+      "size_kb": 819.6,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btctrinity.py",
+      "remote_path": "pares/btcusd/btctrinity.py",
+      "sha256": "f3d716b35e5e8de5bea2ef5f111c6df51f759f9438fdd3f0b0d97d6bbd07eb44",
+      "size_kb": 97.8,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btckraken1.py",
+      "remote_path": "pares/btcusd/btckraken1.py",
+      "sha256": "9de6160381a170970c8b694fea378e819437f37e9b0df93263c14b8e20d8180c",
+      "size_kb": 23.3,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm1.py",
+      "remote_path": "pares/btcusd/btcllm1.py",
+      "sha256": "af18296156816f000c8577b84fe3623e12b0c2d8052fa4e0c53562632ec5ee1f",
+      "size_kb": 68.3,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm2.py",
+      "remote_path": "pares/btcusd/btcllm2.py",
+      "sha256": "05cff5740794f61feefdf6da0428d9efe04b44181d8398b704b4ab0301ed196d",
+      "size_kb": 36.7,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm3.py",
+      "remote_path": "pares/btcusd/btcllm3.py",
+      "sha256": "55a2e7971427a8bba85b0acbdc24844f694f7225e8b456520bfe40a7f2f9c05d",
+      "size_kb": 46.7,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm4.py",
+      "remote_path": "pares/btcusd/btcllm4.py",
+      "sha256": "46e23f31f997caccf90361f7a681fb2ffa1cc381c9854e6318c06b2e40e9befb",
+      "size_kb": 55.5,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm5.py",
+      "remote_path": "pares/btcusd/btcllm5.py",
+      "sha256": "2627fe00b49a978770329fb69f7686cf36c756acc48cf258c66a02992ca006f3",
+      "size_kb": 52.1,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm6.py",
+      "remote_path": "pares/btcusd/btcllm6.py",
+      "sha256": "581e62f9d23209c6819a65c25e9899fa50df61c14e7593ff2fca2919b5e8dfd5",
+      "size_kb": 54.3,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm7.py",
+      "remote_path": "pares/btcusd/btcllm7.py",
+      "sha256": "c17e79ab636451f5859e15058be7c8d31a262932bd59ae75af034d722898fda3",
+      "size_kb": 11.8,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm8.py",
+      "remote_path": "pares/btcusd/btcllm8.py",
+      "sha256": "652a5b355db876c529be137f7c09151c29476895db7e6ef4e6001af270fec44b",
+      "size_kb": 14.2,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm9.py",
+      "remote_path": "pares/btcusd/btcllm9.py",
+      "sha256": "a502f3d8290dd4066fcdcc9760502715efe8aff15bf8af4390fdcb90182f732e",
+      "size_kb": 27.6,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm10.py",
+      "remote_path": "pares/btcusd/btcllm10.py",
+      "sha256": "e19d99b451fe30ae8bcb7976184d31b73a21e9355bdcf89e173d0fcdfecea425",
+      "size_kb": 48.9,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm11.py",
+      "remote_path": "pares/btcusd/btcllm11.py",
+      "sha256": "198098df753978a340a3f2292cf6e28fe64afbe82b53708514278f5ced2bd52d",
+      "size_kb": 81.4,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcllm12.py",
+      "remote_path": "pares/btcusd/btcllm12.py",
+      "sha256": "030090312a7dc67cabd2d78beb41a500b13291a9aacc912d793d292d2e8a7592",
+      "size_kb": 57.0,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btcsound.py",
+      "remote_path": "pares/btcusd/btcsound.py",
+      "sha256": "2ff9ff7039e6e640382bfe84d2cdae5a5dd45f6f8500712faa1433f48c31f0ac",
+      "size_kb": 35.5,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/btc_config_loader.py",
+      "remote_path": "pares/btcusd/btc_config_loader.py",
+      "sha256": "b9c30127ce35f12bffb4b3db3d4ddc2b73416940810984032cdd39cfa8da202a",
+      "size_kb": 9.2,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/news_intelligence.py",
+      "remote_path": "pares/btcusd/news_intelligence.py",
+      "sha256": "fbf101abf20fded0ca6088feaed3460542b11f75c1aafae67fd3682d6ae69a4e",
+      "size_kb": 22.5,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/btcusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/btcusd/reinforcement_learning_engine.py",
+      "sha256": "ad6b4f6502747c932eeebf47ed52f77e06418f2544bcc9b373d8162f80627803",
+      "size_kb": 15.4,
+      "category": "par_btcusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadquantum_core.py",
+      "remote_path": "pares/cadusd/cadquantum_core.py",
+      "sha256": "ad7eca4f43aeed42d1981486f6e0b9adacae4b76b6eb525b5fe92f20e6348659",
+      "size_kb": 927.6,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadtrinity.py",
+      "remote_path": "pares/cadusd/cadtrinity.py",
+      "sha256": "dc4e07dd74e7ea8ef5188bffdc9bae86e2a9217c0d0c14c0e7ef641d8e8bc246",
+      "size_kb": 91.5,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadkraken1.py",
+      "remote_path": "pares/cadusd/cadkraken1.py",
+      "sha256": "6e9f8b90af1bab0a10fa59a4eb62481a21d6e2d49fe406ad684dae4a03104c77",
+      "size_kb": 23.3,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm1.py",
+      "remote_path": "pares/cadusd/cadllm1.py",
+      "sha256": "3778d5f9d8b28079366d313ff27105322cf88fb69af473e23be4ed09d00c38ae",
+      "size_kb": 68.5,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm2.py",
+      "remote_path": "pares/cadusd/cadllm2.py",
+      "sha256": "f864ca9b8bee8dacd587b5406c19e22069c1811a336c505ac5bd7b8b3aec8902",
+      "size_kb": 37.9,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm3.py",
+      "remote_path": "pares/cadusd/cadllm3.py",
+      "sha256": "620b08ac44343ed43515684057e3a76fb558de7c8503f96e1e76846b7f9cb15d",
+      "size_kb": 47.7,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm4.py",
+      "remote_path": "pares/cadusd/cadllm4.py",
+      "sha256": "06323668fad51e1215f158534fede11f8a83af031cbf321a381dfd9eb5d86ff9",
+      "size_kb": 58.6,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm5.py",
+      "remote_path": "pares/cadusd/cadllm5.py",
+      "sha256": "782e942e4561a5c05a85ad575be57262dd59d032c370dbd3f3cd22b65685daa6",
+      "size_kb": 52.2,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm6.py",
+      "remote_path": "pares/cadusd/cadllm6.py",
+      "sha256": "e85f0ee383f07fdefb33c1b14bf312a9419c1f1c604a77f602d1b02d59cd1d09",
+      "size_kb": 54.3,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm7.py",
+      "remote_path": "pares/cadusd/cadllm7.py",
+      "sha256": "8c2c4744129bd722e01c3f1c25de1e71ce26dc3b35105c0910cf4318a9474756",
+      "size_kb": 11.8,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm8.py",
+      "remote_path": "pares/cadusd/cadllm8.py",
+      "sha256": "1072126adb67e26b56613d96a7f9325c090922dfb1a966fbe0dcc8a0f4a501a0",
+      "size_kb": 14.2,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm9.py",
+      "remote_path": "pares/cadusd/cadllm9.py",
+      "sha256": "dc43bc6c35322b457964bc0dd63060f5d8d1c28c1826a270876d9bb7898e6acc",
+      "size_kb": 27.7,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm10.py",
+      "remote_path": "pares/cadusd/cadllm10.py",
+      "sha256": "dc54d0e3dccc056ae9466c1a666ceb2b3cba227485b7dbd3218229697c916390",
+      "size_kb": 50.1,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm11.py",
+      "remote_path": "pares/cadusd/cadllm11.py",
+      "sha256": "5e70bfe8603aaa6368cd8b176f0e57c32ce0739e77669ac063ad46e8ba4f91d2",
+      "size_kb": 81.5,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadllm12.py",
+      "remote_path": "pares/cadusd/cadllm12.py",
+      "sha256": "95f39e6f9bf1354788a2cfcf1f78f16a24ca024ddebf7df79be99baa8dbe50fe",
+      "size_kb": 57.0,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cadsound.py",
+      "remote_path": "pares/cadusd/cadsound.py",
+      "sha256": "9a570481da67005788202db4600dc8524e42e62970bd1b325f44c2d5fb2bddf9",
+      "size_kb": 26.3,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/cad_config_loader.py",
+      "remote_path": "pares/cadusd/cad_config_loader.py",
+      "sha256": "7895aceb3d176cd4c92bc494a8d41396b1136845c9c6e2a244fc4dd7bb4dee32",
+      "size_kb": 9.2,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/news_intelligence.py",
+      "remote_path": "pares/cadusd/news_intelligence.py",
+      "sha256": "fc182633b04e485e13f6045f144c2b4b909b7592bab202771fb830953ae39dcb",
+      "size_kb": 25.2,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/cadusd/reinforcement_learning_engine.py",
+      "sha256": "d1902273192eaacda3f24950e37549c9726a0ff0ebcc2bf2422bc9f9a0b49892",
+      "size_kb": 15.3,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/llm_cache_engine.py",
+      "remote_path": "pares/cadusd/llm_cache_engine.py",
+      "sha256": "a5500f57a9d44a0dacc2f79d846c083ffedfd7f9a83ec5ad936aae923403e562",
+      "size_kb": 17.9,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/llm_learning_feedback.py",
+      "remote_path": "pares/cadusd/llm_learning_feedback.py",
+      "sha256": "e654119e6e99b35ca9571ab4129b525977821ba2de0699aba1ddf9f687ed13cb",
+      "size_kb": 18.9,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/supreme_consciousness.py",
+      "remote_path": "pares/cadusd/supreme_consciousness.py",
+      "sha256": "7311cc562757cfd3a9aac5145a8c52e99854e04cd2732caac4e6786fb2585f73",
+      "size_kb": 50.3,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/cadusd/advanced_patterns.py",
+      "remote_path": "pares/cadusd/advanced_patterns.py",
+      "sha256": "b186b714b49d86b34d890b5af6daed1447bf9ea54ae67b8ed172e47eff4ecc65",
+      "size_kb": 11.4,
+      "category": "par_cadusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfquantum_core.py",
+      "remote_path": "pares/chfusd/chfquantum_core.py",
+      "sha256": "76ac6560cc7e4b96074502539f6d356eaa251ab85879788d93ace687743be7c2",
+      "size_kb": 859.6,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chftrinity.py",
+      "remote_path": "pares/chfusd/chftrinity.py",
+      "sha256": "01abbdc7f07b8acb2dd3e67f8bd0336cf27d0ffb5ac0c7747a3c7eb9049b5e62",
+      "size_kb": 106.7,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfkraken1.py",
+      "remote_path": "pares/chfusd/chfkraken1.py",
+      "sha256": "e3736feb1d6b0a881ad131e1222dbadefdf5e872d6d55f841bfaf8436e322f03",
+      "size_kb": 23.7,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm1.py",
+      "remote_path": "pares/chfusd/chfllm1.py",
+      "sha256": "685ea76e30ad1a61b471b9fecc39d23c34c1ecfd120d764a18ae975256badbb4",
+      "size_kb": 68.7,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm2.py",
+      "remote_path": "pares/chfusd/chfllm2.py",
+      "sha256": "8b2da2577e11e505d8cf085b8b56cda2d70e9d80e45a98cf779d6934a84148cb",
+      "size_kb": 37.6,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm3.py",
+      "remote_path": "pares/chfusd/chfllm3.py",
+      "sha256": "62804e006cd9c5243ef0c3a94708d1916be58b8e782af57eaad9c945867b8863",
+      "size_kb": 47.1,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm4.py",
+      "remote_path": "pares/chfusd/chfllm4.py",
+      "sha256": "7356364c1477367181d582a358345967b9eb43c5df21e16f6fff6fcec5e22f51",
+      "size_kb": 58.9,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm5.py",
+      "remote_path": "pares/chfusd/chfllm5.py",
+      "sha256": "d11686d51d18d03f390d4a27f3de93a83cda766f52a643939aff2beccf1f73b9",
+      "size_kb": 52.5,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm6.py",
+      "remote_path": "pares/chfusd/chfllm6.py",
+      "sha256": "b5879322d267602922296d455b98cf5056cd380575a3719eca8bf7f295a405a0",
+      "size_kb": 54.4,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm7.py",
+      "remote_path": "pares/chfusd/chfllm7.py",
+      "sha256": "9b43879dadd174eab93dace7f73faa010e0975c5c81543bf683ee038bfb80aa5",
+      "size_kb": 12.3,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm8.py",
+      "remote_path": "pares/chfusd/chfllm8.py",
+      "sha256": "13477e9f8127ff467502f7374082c0a761156563e4a5df39d6380ee4a23edbe5",
+      "size_kb": 14.6,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm9.py",
+      "remote_path": "pares/chfusd/chfllm9.py",
+      "sha256": "e7344713e5770fc7b03fa0503bf787d532b54ce0895e26923fc74766f02e4cf4",
+      "size_kb": 31.0,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm10.py",
+      "remote_path": "pares/chfusd/chfllm10.py",
+      "sha256": "608763524b860796648f770e948428aca47ebaacde30ab4fe7d5ab56708da35f",
+      "size_kb": 52.0,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm11.py",
+      "remote_path": "pares/chfusd/chfllm11.py",
+      "sha256": "a1cf05ff9935465592a0b416d9cadf3fe0c35756b2730a1fd6153c695a993734",
+      "size_kb": 83.1,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfllm12.py",
+      "remote_path": "pares/chfusd/chfllm12.py",
+      "sha256": "398ec39f2b88b8713fc70c0df4087106f5ba924e3feb57916215ecdaeb2e37c1",
+      "size_kb": 57.4,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/chfsound.py",
+      "remote_path": "pares/chfusd/chfsound.py",
+      "sha256": "8d18768797957ed60bd52d104e86350a6db7732fb84c4c229c7e3cc2c1d4faec",
+      "size_kb": 35.5,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/news_intelligence.py",
+      "remote_path": "pares/chfusd/news_intelligence.py",
+      "sha256": "547bc0800e3e8b329839ff0ec0b79485bca8e442f7ce0abf0d58c303a5529bb4",
+      "size_kb": 25.6,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/chfusd/reinforcement_learning_engine.py",
+      "sha256": "2da19d2928f8f3f9714d844e877107b27723a0665315b5bd184caf0c2bb26405",
+      "size_kb": 16.1,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/llm_cache_engine.py",
+      "remote_path": "pares/chfusd/llm_cache_engine.py",
+      "sha256": "8b2f5b888ca270ae0cc46f12695871df19e25cd3ff9e6b32cb11565fefaf610c",
+      "size_kb": 17.9,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd/advanced_patterns.py",
+      "remote_path": "pares/chfusd/advanced_patterns.py",
+      "sha256": "b186b714b49d86b34d890b5af6daed1447bf9ea54ae67b8ed172e47eff4ecc65",
+      "size_kb": 11.4,
+      "category": "par_chfusd"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfquantum_core.py",
+      "remote_path": "pares/chfusd Snake Edition/chfquantum_core.py",
+      "sha256": "beb1d3f607fd79361066275fbcf590c42a7ca353c90e2d78da9336d631ba4907",
+      "size_kb": 810.4,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chftrinity.py",
+      "remote_path": "pares/chfusd Snake Edition/chftrinity.py",
+      "sha256": "33716ce63f23cab5472ca2870e53b249d3a94af2183432b22fba78bc6e31a641",
+      "size_kb": 97.4,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfkraken1.py",
+      "remote_path": "pares/chfusd Snake Edition/chfkraken1.py",
+      "sha256": "d2aca3621a0785372f0bd82f31224b5fe27b7a2a4100779bfd7c17fa712d4b27",
+      "size_kb": 23.2,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm1.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm1.py",
+      "sha256": "1c64599df87aa2815ca838724a33fe17b9143e8da21f2e65b9031211921d97aa",
+      "size_kb": 68.3,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm2.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm2.py",
+      "sha256": "8219a824ecb00ca02543ff316f0f778cf2ea0f24198920efeb615b4e43eabdbb",
+      "size_kb": 37.2,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm3.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm3.py",
+      "sha256": "9c65d359cb4386bd0187b0359859413296a0652440dd457c6f0f4c62e900c09e",
+      "size_kb": 46.8,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm4.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm4.py",
+      "sha256": "23fd90dbc204d6d42f5589684dc81f5aa3d4403c227f9bccfc16714aed1d05ef",
+      "size_kb": 55.5,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm5.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm5.py",
+      "sha256": "82c3e510e4f87198f867dbd0e476ad3b71b0a093a98baf0967a477363420cfc2",
+      "size_kb": 52.1,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm6.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm6.py",
+      "sha256": "31d95beb362b4217386d328d5f24ae0beddb05db2ef68f7ac63a97c3bdce1f71",
+      "size_kb": 54.3,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm7.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm7.py",
+      "sha256": "3f71d7183513844c579e864a1aae2d48b51c52a471873b193baf3b2a048ef4f1",
+      "size_kb": 11.9,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm8.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm8.py",
+      "sha256": "91ee590a311125a335e7af09bc2f930b3038652ce8b7a694201c31ba3e8c8438",
+      "size_kb": 14.2,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm9.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm9.py",
+      "sha256": "b078295f84477e2e2248101254286d5d4858d24bf0a276250db9c44ea98f90c4",
+      "size_kb": 30.6,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfllm10.py",
+      "remote_path": "pares/chfusd Snake Edition/chfllm10.py",
+      "sha256": "5c487375dcb9844051533838c51bb83222f74851dfec588f98183c35129ec0d3",
+      "size_kb": 51.6,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/chfsound.py",
+      "remote_path": "pares/chfusd Snake Edition/chfsound.py",
+      "sha256": "8d18768797957ed60bd52d104e86350a6db7732fb84c4c229c7e3cc2c1d4faec",
+      "size_kb": 35.5,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/news_intelligence.py",
+      "remote_path": "pares/chfusd Snake Edition/news_intelligence.py",
+      "sha256": "a5b73f4c2e7772c580799f0083be19e349ae79cf9ab45bed0b6f752c159558b5",
+      "size_kb": 22.9,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/reinforcement_learning_engine.py",
+      "remote_path": "pares/chfusd Snake Edition/reinforcement_learning_engine.py",
+      "sha256": "1eecd2ab490443a8ed2844db54d95df0703d0508b900c8554b9fc68d14c1bfde",
+      "size_kb": 17.3,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/llm_cache_engine.py",
+      "remote_path": "pares/chfusd Snake Edition/llm_cache_engine.py",
+      "sha256": "8b2f5b888ca270ae0cc46f12695871df19e25cd3ff9e6b32cb11565fefaf610c",
+      "size_kb": 17.9,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/chfusd Snake Edition/advanced_patterns.py",
+      "remote_path": "pares/chfusd Snake Edition/advanced_patterns.py",
+      "sha256": "b186b714b49d86b34d890b5af6daed1447bf9ea54ae67b8ed172e47eff4ecc65",
+      "size_kb": 11.4,
+      "category": "par_chfusd Snake Edition"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhquantum_core.py",
+      "remote_path": "pares/cnhusd/cnhquantum_core.py",
+      "sha256": "4c9d9be167086dde77599b35b83bd8dc17229f283223d8183a51e2f3bdc4958f",
+      "size_kb": 946.7,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhtrinity.py",
+      "remote_path": "pares/cnhusd/cnhtrinity.py",
+      "sha256": "2f4ddc39975b18f1545b4e1c38808c117db241d1b0357f9ec9acc3a129105537",
+      "size_kb": 89.6,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhkraken1.py",
+      "remote_path": "pares/cnhusd/cnhkraken1.py",
+      "sha256": "d35b35bffbdc7906d4019fefcdf40b0fca133c4f9d8572fa78d24e50a76ddc32",
+      "size_kb": 23.3,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm1.py",
+      "remote_path": "pares/cnhusd/cnhllm1.py",
+      "sha256": "8ef60e0af082df769fb6f6d2a7081d7238d9dbd6ee788e1a67cc23df3e53f4c2",
+      "size_kb": 79.3,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm2.py",
+      "remote_path": "pares/cnhusd/cnhllm2.py",
+      "sha256": "f32bb41007cff05371f90436e075eb5b9eb68c53d766ae59d6f4ea900802fe23",
+      "size_kb": 36.8,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm3.py",
+      "remote_path": "pares/cnhusd/cnhllm3.py",
+      "sha256": "fc07462a4ca2d222460a3e383f217492305687c2e59b6a8dbae831aff22bce6c",
+      "size_kb": 46.8,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm4.py",
+      "remote_path": "pares/cnhusd/cnhllm4.py",
+      "sha256": "b5eab235adfd1aff9fb165d80561d842301831e173d0bab3bd747e5532f77bbc",
+      "size_kb": 55.6,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm5.py",
+      "remote_path": "pares/cnhusd/cnhllm5.py",
+      "sha256": "ec1d0a1888e659988d7a32eb05b8cd927393241bdcdf247d9d651036386e9108",
+      "size_kb": 52.1,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm6.py",
+      "remote_path": "pares/cnhusd/cnhllm6.py",
+      "sha256": "ddc6e25677bbcdd04286012041d862855350124efe344b79c2a018ce0010f2db",
+      "size_kb": 54.4,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm7.py",
+      "remote_path": "pares/cnhusd/cnhllm7.py",
+      "sha256": "36fa73e3c1eda09944b7370c9db86bbb3abc906ed1127e99d5ec060a57ece94b",
+      "size_kb": 11.7,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm8.py",
+      "remote_path": "pares/cnhusd/cnhllm8.py",
+      "sha256": "de3e97e6e129ea83d632300f291d3e64e7d7f89992e5cd34095362252062fda0",
+      "size_kb": 14.2,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm9.py",
+      "remote_path": "pares/cnhusd/cnhllm9.py",
+      "sha256": "aabca497605036f10b12598f81d0be78c32e8ed48b44d823021dbb25f4a9efa4",
+      "size_kb": 27.6,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm10.py",
+      "remote_path": "pares/cnhusd/cnhllm10.py",
+      "sha256": "6ec067db78c2012378839318a2107af6d931e625051110acd32f0c82a1c97282",
+      "size_kb": 49.1,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm11.py",
+      "remote_path": "pares/cnhusd/cnhllm11.py",
+      "sha256": "a5be6269fc83a4566691b1ea20f167643b99e779485841f9203ffc008f60af5e",
+      "size_kb": 81.4,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhllm12.py",
+      "remote_path": "pares/cnhusd/cnhllm12.py",
+      "sha256": "27a27ef022a36877908fd2e27ca1334f0c70ee3654e8040fa8717e83f6bfcfc7",
+      "size_kb": 57.0,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnhsound.py",
+      "remote_path": "pares/cnhusd/cnhsound.py",
+      "sha256": "29c2367c666efdbfd564137c75f41ab43aeddd58bed2082743bd948138c88a1b",
+      "size_kb": 26.2,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/cnh_config_loader.py",
+      "remote_path": "pares/cnhusd/cnh_config_loader.py",
+      "sha256": "80ef3ac5620abe427665598dbd8537a25dbd76e184171ecabeb3af93c99ebaee",
+      "size_kb": 8.9,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/news_intelligence.py",
+      "remote_path": "pares/cnhusd/news_intelligence.py",
+      "sha256": "f5ea748e25e26c5fcc7012225ecc5435071093c4c000ea62da37f00e9fe4ae11",
+      "size_kb": 25.3,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/cnhusd/reinforcement_learning_engine.py",
+      "sha256": "d1902273192eaacda3f24950e37549c9726a0ff0ebcc2bf2422bc9f9a0b49892",
+      "size_kb": 15.3,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/llm_cache_engine.py",
+      "remote_path": "pares/cnhusd/llm_cache_engine.py",
+      "sha256": "2cf9adfbf65819efd381edb8ee6551ade687c3396d9df15b4d286cd475300bb5",
+      "size_kb": 17.9,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/llm_learning_feedback.py",
+      "remote_path": "pares/cnhusd/llm_learning_feedback.py",
+      "sha256": "e654119e6e99b35ca9571ab4129b525977821ba2de0699aba1ddf9f687ed13cb",
+      "size_kb": 18.9,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/supreme_consciousness.py",
+      "remote_path": "pares/cnhusd/supreme_consciousness.py",
+      "sha256": "7311cc562757cfd3a9aac5145a8c52e99854e04cd2732caac4e6786fb2585f73",
+      "size_kb": 50.3,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/cnhusd/advanced_patterns.py",
+      "remote_path": "pares/cnhusd/advanced_patterns.py",
+      "sha256": "b186b714b49d86b34d890b5af6daed1447bf9ea54ae67b8ed172e47eff4ecc65",
+      "size_kb": 11.4,
+      "category": "par_cnhusd"
+    },
+    {
+      "local_path": "pares/eurusd/euquantum_core.py",
+      "remote_path": "pares/eurusd/euquantum_core.py",
+      "sha256": "5e27a24fc2eb7ba064af17e3c77f6270aab375900d3ff24846bf580e067161b3",
+      "size_kb": 864.1,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eutrinity.py",
+      "remote_path": "pares/eurusd/eutrinity.py",
+      "sha256": "606235e60ffcb1911ca2e4d192ca100f5c2e0b96bf01dfbaee687f8c4666227d",
+      "size_kb": 107.1,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eukraken1.py",
+      "remote_path": "pares/eurusd/eukraken1.py",
+      "sha256": "e3545b2476facd94c6990181253bb49d51fabf4389ad313e498b894a392ae443",
+      "size_kb": 23.0,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm1.py",
+      "remote_path": "pares/eurusd/eullm1.py",
+      "sha256": "0629c86b6a5eb732d3b819e6862602b0abbc4cc709106e30e5b89eebc2623ad2",
+      "size_kb": 62.3,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm2.py",
+      "remote_path": "pares/eurusd/eullm2.py",
+      "sha256": "1d2a52f6ccb3f8be817e339b1bcc8b33f12751721f1a8857c5f57dea4175c9d7",
+      "size_kb": 30.9,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm3.py",
+      "remote_path": "pares/eurusd/eullm3.py",
+      "sha256": "92bfcc835bdf90d95661525d32d84cdc7db9caeb7ee7524cdb5ba7b8de665277",
+      "size_kb": 44.6,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm4.py",
+      "remote_path": "pares/eurusd/eullm4.py",
+      "sha256": "ca6f47ba998d2299531067706b4ef1b0c0d095161f4fa52be4256d3b5026cc9f",
+      "size_kb": 58.1,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm5.py",
+      "remote_path": "pares/eurusd/eullm5.py",
+      "sha256": "c07c23df068b14950e5a1cfefaf7914ff531160bb89354a68958a351388db7eb",
+      "size_kb": 53.4,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm6.py",
+      "remote_path": "pares/eurusd/eullm6.py",
+      "sha256": "65b8997a8602913f75f0a48ddb99f31282539467043d8e54b791049bd374c9f3",
+      "size_kb": 55.4,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm7.py",
+      "remote_path": "pares/eurusd/eullm7.py",
+      "sha256": "bf9d183c12bffbf6d593dbd4be707ae9eb103b47521f4284f081ec47a498c8bf",
+      "size_kb": 13.0,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm8.py",
+      "remote_path": "pares/eurusd/eullm8.py",
+      "sha256": "962d8fc3a6b7072b9fe86aa5cbddf2abb3f92346ea03812ddcabd87943b2b34e",
+      "size_kb": 13.9,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm9.py",
+      "remote_path": "pares/eurusd/eullm9.py",
+      "sha256": "d646ae0cf72c3ccf3593548a3d928f80b1ad5fb0e8e5752fe033535e74b8b62c",
+      "size_kb": 21.7,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm10.py",
+      "remote_path": "pares/eurusd/eullm10.py",
+      "sha256": "8a07a5bb441a7b4ad34eeb73cea148efc938f50b83d6376a7c2c897e849e1b81",
+      "size_kb": 30.9,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm11.py",
+      "remote_path": "pares/eurusd/eullm11.py",
+      "sha256": "2fdff51469a9cb4e28610fee5f0032b7c2590cb8cd5eb99096744e9b98f6479c",
+      "size_kb": 83.1,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eullm12.py",
+      "remote_path": "pares/eurusd/eullm12.py",
+      "sha256": "b6338f54bb5c449b237dfe0cb06a60adf5d8468fbef730aeaccaeab1f78314da",
+      "size_kb": 57.4,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eusound.py",
+      "remote_path": "pares/eurusd/eusound.py",
+      "sha256": "7e85d6722d12cfd41a6ef2f56964fc0bccd4923c12f79e70e1830f24b28bf264",
+      "size_kb": 27.3,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/eu_config_loader.py",
+      "remote_path": "pares/eurusd/eu_config_loader.py",
+      "sha256": "36e1b1edf91ff6aae511ccb58dc883db4d427ad042fd86cdecb8f4b95f1283cb",
+      "size_kb": 7.7,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/news_intelligence.py",
+      "remote_path": "pares/eurusd/news_intelligence.py",
+      "sha256": "b399597652e6c4bf2ca3e8da288498ae6a225352e39192d17c1e737a191a6407",
+      "size_kb": 26.6,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/eurusd/reinforcement_learning_engine.py",
+      "sha256": "2dc3c04304f3f3f495cf218317bacb1adf348b9b437e5510117bdbaa02477a10",
+      "size_kb": 17.8,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/llm_cache_engine.py",
+      "remote_path": "pares/eurusd/llm_cache_engine.py",
+      "sha256": "3a04d23e9b5e623cea46a068e735b79050149d9ef4bba12a80483180d11fc875",
+      "size_kb": 17.9,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/llm_learning_feedback.py",
+      "remote_path": "pares/eurusd/llm_learning_feedback.py",
+      "sha256": "ac53ae716fb6e43d2190b3fae397a1c571d5b5ce6dc6dcd84f68de3921c5cd5b",
+      "size_kb": 18.9,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/eurusd/advanced_patterns.py",
+      "remote_path": "pares/eurusd/advanced_patterns.py",
+      "sha256": "5c5434cd1be66224d069b7891c68433780ada41334671b3fa898e1c5548428e8",
+      "size_kb": 11.4,
+      "category": "par_eurusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpquantum_core.py",
+      "remote_path": "pares/gbpusd/gbpquantum_core.py",
+      "sha256": "44f76b81d7025fd41fc2c9f6b0ec74a86efbf08dd35179de0f1901fa023d0f66",
+      "size_kb": 877.0,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbptrinity.py",
+      "remote_path": "pares/gbpusd/gbptrinity.py",
+      "sha256": "25e7f87e72de1e57786d3acc1b96d8d7118df0ae1aeaafa4ad6829609e25372b",
+      "size_kb": 89.5,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpkraken1.py",
+      "remote_path": "pares/gbpusd/gbpkraken1.py",
+      "sha256": "fe5d907b27259517c4939c32dd1dbd516d666b66727a005176707c1c35e13e43",
+      "size_kb": 23.3,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm1.py",
+      "remote_path": "pares/gbpusd/gbpllm1.py",
+      "sha256": "384503937b3e354fce4aea2df3cd5e52325113bd7437ecfa5626af88bf8ad7c3",
+      "size_kb": 68.3,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm2.py",
+      "remote_path": "pares/gbpusd/gbpllm2.py",
+      "sha256": "9ed067629db5a0b62fa6fc845d560151dc44e29e95b1f2bfa4196921c1a1c301",
+      "size_kb": 36.8,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm3.py",
+      "remote_path": "pares/gbpusd/gbpllm3.py",
+      "sha256": "4444379be32d5dd6c589d821156986ffb531b60061e6af72eeb5ee59d0911c31",
+      "size_kb": 46.8,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm4.py",
+      "remote_path": "pares/gbpusd/gbpllm4.py",
+      "sha256": "2fc2d8f4c73b42657d40daf0807de310a707b2db3da26c6f5c3a42f756f41673",
+      "size_kb": 55.5,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm5.py",
+      "remote_path": "pares/gbpusd/gbpllm5.py",
+      "sha256": "add8c7e177188c418e2c3aa3cd47f60349db35e066c4d28f83adfe65ee6cf5e4",
+      "size_kb": 52.1,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm6.py",
+      "remote_path": "pares/gbpusd/gbpllm6.py",
+      "sha256": "5e7ffc4fed7f18db470dc4186f9f4f685969269069f2c3d64b7d581ff587a2bf",
+      "size_kb": 54.3,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm7.py",
+      "remote_path": "pares/gbpusd/gbpllm7.py",
+      "sha256": "7ea39a971be6ca5028c9c842cd47e337ec7e4db15cc57b6e4128c8527224487d",
+      "size_kb": 11.7,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm8.py",
+      "remote_path": "pares/gbpusd/gbpllm8.py",
+      "sha256": "68bbb85ce4bbc7e1f5e23a811f1e00003805212694e496a449089671e27f4373",
+      "size_kb": 14.2,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm9.py",
+      "remote_path": "pares/gbpusd/gbpllm9.py",
+      "sha256": "43d787f755aa97543d6c29add594b7e25def2699d2b0b9a1aaf0e9b5c804234e",
+      "size_kb": 27.6,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm10.py",
+      "remote_path": "pares/gbpusd/gbpllm10.py",
+      "sha256": "742a17df156821fa304d8c5351cb7474b0350bb919badf6668396ecf5304bed3",
+      "size_kb": 49.0,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm11.py",
+      "remote_path": "pares/gbpusd/gbpllm11.py",
+      "sha256": "273490cdb4b6b76227335e2fef100883ec3557238bb2d9a35861c5da7c5e6625",
+      "size_kb": 81.5,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpllm12.py",
+      "remote_path": "pares/gbpusd/gbpllm12.py",
+      "sha256": "2236baeacfb3e381357ae51924c09333669146b7ed4fb7e3817c944464b2b859",
+      "size_kb": 57.0,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbpsound.py",
+      "remote_path": "pares/gbpusd/gbpsound.py",
+      "sha256": "8ed704f0f11004f4ed5c20a857f71bc0269af0d1f44e881939150cc17ad42e03",
+      "size_kb": 35.5,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/gbp_config_loader.py",
+      "remote_path": "pares/gbpusd/gbp_config_loader.py",
+      "sha256": "486126ed7b52ad04189909f1997841f8f67a0c545c71c9cb7b5dc1536fca203d",
+      "size_kb": 9.2,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/news_intelligence.py",
+      "remote_path": "pares/gbpusd/news_intelligence.py",
+      "sha256": "f363e2c065e881edcbc32bfe3e2083042c529347a5d7f13df07b30081dba4b2b",
+      "size_kb": 22.6,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/gbpusd/reinforcement_learning_engine.py",
+      "sha256": "38b9b83e38f92fa3cae37863c5b84016c6515ca1bd4e675db5c3e3df0b8a3157",
+      "size_kb": 17.7,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/llm_cache_engine.py",
+      "remote_path": "pares/gbpusd/llm_cache_engine.py",
+      "sha256": "f40ce59e9271eb03b9c08b77e0e0cf99fed60691a5b1cad2612a0894e62d3c05",
+      "size_kb": 17.9,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/llm_learning_feedback.py",
+      "remote_path": "pares/gbpusd/llm_learning_feedback.py",
+      "sha256": "ac53ae716fb6e43d2190b3fae397a1c571d5b5ce6dc6dcd84f68de3921c5cd5b",
+      "size_kb": 18.9,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/supreme_consciousness.py",
+      "remote_path": "pares/gbpusd/supreme_consciousness.py",
+      "sha256": "7311cc562757cfd3a9aac5145a8c52e99854e04cd2732caac4e6786fb2585f73",
+      "size_kb": 50.3,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/gbpusd/advanced_patterns.py",
+      "remote_path": "pares/gbpusd/advanced_patterns.py",
+      "sha256": "5c5434cd1be66224d069b7891c68433780ada41334671b3fa898e1c5548428e8",
+      "size_kb": 11.4,
+      "category": "par_gbpusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdquantum_core.py",
+      "remote_path": "pares/nzdusd/nzdquantum_core.py",
+      "sha256": "bd3b7cd92ef573f285e2dbd79f279e95ce57df6d4c6adec2e0ba0f333b8d8690",
+      "size_kb": 935.9,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdtrinity.py",
+      "remote_path": "pares/nzdusd/nzdtrinity.py",
+      "sha256": "639060580abb3af6bd0b55e0d01377aad0a206ba9195c5ef5e391cc1306a18f1",
+      "size_kb": 89.6,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdkraken1.py",
+      "remote_path": "pares/nzdusd/nzdkraken1.py",
+      "sha256": "6eb3b3a9ac1cc5b416371c4872fa526a998d29a18296ddb501f79f6ff9d5c591",
+      "size_kb": 23.7,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm1.py",
+      "remote_path": "pares/nzdusd/nzdllm1.py",
+      "sha256": "2a6ebd8c70332c03063a3894045795d3661479bd3dbb3995a652d4d119a0f880",
+      "size_kb": 79.7,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm2.py",
+      "remote_path": "pares/nzdusd/nzdllm2.py",
+      "sha256": "62a65f5124ab6d012afa546d2909bc4d6e74f0339a6c611b0cd3e93e138a7fbf",
+      "size_kb": 37.1,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm3.py",
+      "remote_path": "pares/nzdusd/nzdllm3.py",
+      "sha256": "430fc6ed6996461f2c34e362f25f0198e836e589bcd26e816aa865d0f6389795",
+      "size_kb": 47.1,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm4.py",
+      "remote_path": "pares/nzdusd/nzdllm4.py",
+      "sha256": "363a0c16579ce172386c231906113696d8fe07138002fecb459de166959e82b9",
+      "size_kb": 55.9,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm5.py",
+      "remote_path": "pares/nzdusd/nzdllm5.py",
+      "sha256": "6ae38fe12e093b4eb6d24ae80ffa3961f28c50946f3b9c628d9a2fd05ae365a8",
+      "size_kb": 52.5,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm6.py",
+      "remote_path": "pares/nzdusd/nzdllm6.py",
+      "sha256": "f8d2ea411aebdd654c51938ff8bd90060450b76814529fbf0ad43131f5ca6dc1",
+      "size_kb": 54.5,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm7.py",
+      "remote_path": "pares/nzdusd/nzdllm7.py",
+      "sha256": "1f43ea3924921c3e65f317919ca827849bdf2998cffda82fa192c0df2d183730",
+      "size_kb": 12.1,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm8.py",
+      "remote_path": "pares/nzdusd/nzdllm8.py",
+      "sha256": "3fe7d46f9dab043e9a0775e03d0946f90b8eff8fd2bca5d6b014ede9bedd080f",
+      "size_kb": 14.6,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm9.py",
+      "remote_path": "pares/nzdusd/nzdllm9.py",
+      "sha256": "77b357e8d2cc20867824e3f39d9c39f51cdd0f09c418eeb27ee52eef49bc1b30",
+      "size_kb": 28.0,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm10.py",
+      "remote_path": "pares/nzdusd/nzdllm10.py",
+      "sha256": "c3badfb59f7a71cc5809b82ea2b1c12b432595b78a10992f6a46250340ffe22b",
+      "size_kb": 50.3,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm11.py",
+      "remote_path": "pares/nzdusd/nzdllm11.py",
+      "sha256": "607d1c3212abd73541e83b624c43538d510052d484a9e1cf08ec58dcb6f7b07a",
+      "size_kb": 81.9,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdllm12.py",
+      "remote_path": "pares/nzdusd/nzdllm12.py",
+      "sha256": "6ab55970d07b435f54431546014c07edb90d3ca8476d25801bcc7c3b9567e86b",
+      "size_kb": 57.4,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzdsound.py",
+      "remote_path": "pares/nzdusd/nzdsound.py",
+      "sha256": "303f942e97da5fa1da6a38dec4e8b9477798a022b85f043c29835f9d61fbb866",
+      "size_kb": 26.3,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/nzd_config_loader.py",
+      "remote_path": "pares/nzdusd/nzd_config_loader.py",
+      "sha256": "e3cf21b05a0ef2513a58c6b7593ead13ff970274deef35b3f3fef7e000500532",
+      "size_kb": 9.2,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/news_intelligence.py",
+      "remote_path": "pares/nzdusd/news_intelligence.py",
+      "sha256": "1a1a9a4a54ccd3680ae42951f8a4e5ac60ca6fb67d0ea852c0492e4fdc0ece94",
+      "size_kb": 25.5,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/nzdusd/reinforcement_learning_engine.py",
+      "sha256": "38b9b83e38f92fa3cae37863c5b84016c6515ca1bd4e675db5c3e3df0b8a3157",
+      "size_kb": 17.7,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/llm_cache_engine.py",
+      "remote_path": "pares/nzdusd/llm_cache_engine.py",
+      "sha256": "dc3a865ae8b1594766242fd79b4ac0dfe4cb2fd72cec0b915df9b657528ca4bf",
+      "size_kb": 17.9,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/llm_learning_feedback.py",
+      "remote_path": "pares/nzdusd/llm_learning_feedback.py",
+      "sha256": "e654119e6e99b35ca9571ab4129b525977821ba2de0699aba1ddf9f687ed13cb",
+      "size_kb": 18.9,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/supreme_consciousness.py",
+      "remote_path": "pares/nzdusd/supreme_consciousness.py",
+      "sha256": "7311cc562757cfd3a9aac5145a8c52e99854e04cd2732caac4e6786fb2585f73",
+      "size_kb": 50.3,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/nzdusd/advanced_patterns.py",
+      "remote_path": "pares/nzdusd/advanced_patterns.py",
+      "sha256": "b186b714b49d86b34d890b5af6daed1447bf9ea54ae67b8ed172e47eff4ecc65",
+      "size_kb": 11.4,
+      "category": "par_nzdusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekquantum_core.py",
+      "remote_path": "pares/sekusd/sekquantum_core.py",
+      "sha256": "29a52ad52fe936a4c7655b339ac745c376490bc426f4de47b36910a54943a487",
+      "size_kb": 897.8,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sektrinity.py",
+      "remote_path": "pares/sekusd/sektrinity.py",
+      "sha256": "5104ace233995d143b4cc4d282d62d18f3436492c4bdddccc6ed15d15a7b250f",
+      "size_kb": 92.2,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekkraken1.py",
+      "remote_path": "pares/sekusd/sekkraken1.py",
+      "sha256": "bba1aaef157d529009060efcff75f2190a22580506bd966b735afa5902c4eb74",
+      "size_kb": 23.7,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm1.py",
+      "remote_path": "pares/sekusd/sekllm1.py",
+      "sha256": "2c2b34069caca5524e6d86a78a27d0ccae94cdce2a3dd46011552ae9ca6b43ab",
+      "size_kb": 69.2,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm2.py",
+      "remote_path": "pares/sekusd/sekllm2.py",
+      "sha256": "ff884981e866d34599aba182b1ab1ed4c476ad4fe7bc58e57918b397a08bf248",
+      "size_kb": 38.4,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm3.py",
+      "remote_path": "pares/sekusd/sekllm3.py",
+      "sha256": "9df642ef856412d4793385e58d441d6662bc44c450deeffa99523f2dcafb44d5",
+      "size_kb": 47.7,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm4.py",
+      "remote_path": "pares/sekusd/sekllm4.py",
+      "sha256": "b142286aee98b8b8dae9c0dc6759cafdc8b8690d3473d7aa04d8c272a733faa3",
+      "size_kb": 58.8,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm5.py",
+      "remote_path": "pares/sekusd/sekllm5.py",
+      "sha256": "3bb75a572e200e59f53427e108c18fa2551a7e624ae4ac6edc2892957c3a5896",
+      "size_kb": 52.6,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm6.py",
+      "remote_path": "pares/sekusd/sekllm6.py",
+      "sha256": "c726cc171e9b279bfa89a310ce59bc20e760ee89b9c90f72332e694f145122ff",
+      "size_kb": 54.4,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm7.py",
+      "remote_path": "pares/sekusd/sekllm7.py",
+      "sha256": "c11bc2aeab34bf9f22afe841dccc5dd72fbdc68050c900ef0a5e4e2401bb2340",
+      "size_kb": 12.2,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm8.py",
+      "remote_path": "pares/sekusd/sekllm8.py",
+      "sha256": "a5270e54e058fba2a99055e5515881abc605e95f96ff64ca78316569e2e34769",
+      "size_kb": 14.6,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm9.py",
+      "remote_path": "pares/sekusd/sekllm9.py",
+      "sha256": "610048dce408797770457debdc042d5f96b35de315f61e5efbc45642132460b3",
+      "size_kb": 28.1,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm10.py",
+      "remote_path": "pares/sekusd/sekllm10.py",
+      "sha256": "129515951967611e8ae555412a8be3f3b1e446f419fe6d62dc5b2cab8383e9d4",
+      "size_kb": 50.5,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm11.py",
+      "remote_path": "pares/sekusd/sekllm11.py",
+      "sha256": "786f9cd757d7cfc8a808af062fb6cf4da9a7ae9942f8701cd87cce7cfbefdf75",
+      "size_kb": 81.9,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sekllm12.py",
+      "remote_path": "pares/sekusd/sekllm12.py",
+      "sha256": "6d99b24da5494066e89eb68e9b5d5c9418dcc4eed88f45328957e66b97f70573",
+      "size_kb": 57.4,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/seksound.py",
+      "remote_path": "pares/sekusd/seksound.py",
+      "sha256": "f6051d3601a9c0dd32d283dd48494ce5dc65a687caed4900ba1b4d5943a4d399",
+      "size_kb": 35.5,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/sek_config_loader.py",
+      "remote_path": "pares/sekusd/sek_config_loader.py",
+      "sha256": "b0a86da4d5b64f7d2195eb82ce158ef47481973c5fa2cb0d2d9371b6e4e912ba",
+      "size_kb": 8.9,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/news_intelligence.py",
+      "remote_path": "pares/sekusd/news_intelligence.py",
+      "sha256": "4a77be5e8ee89d5f389a9d0b7e1ddf479007b943e8e5da605213d1deffcdd986",
+      "size_kb": 26.4,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/reinforcement_learning_engine.py",
+      "remote_path": "pares/sekusd/reinforcement_learning_engine.py",
+      "sha256": "118326a63cb9a9e8ea46fe686d46049b6af161876bcb62fbeb7ab37d8fa39911",
+      "size_kb": 15.9,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/llm_cache_engine.py",
+      "remote_path": "pares/sekusd/llm_cache_engine.py",
+      "sha256": "f40ce59e9271eb03b9c08b77e0e0cf99fed60691a5b1cad2612a0894e62d3c05",
+      "size_kb": 17.9,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/llm_learning_feedback.py",
+      "remote_path": "pares/sekusd/llm_learning_feedback.py",
+      "sha256": "ac53ae716fb6e43d2190b3fae397a1c571d5b5ce6dc6dcd84f68de3921c5cd5b",
+      "size_kb": 18.9,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/supreme_consciousness.py",
+      "remote_path": "pares/sekusd/supreme_consciousness.py",
+      "sha256": "e59d5f7ed509faf11baa4ac83bbed7bfc4a32222b60e1530a163f2ff8d633c8e",
+      "size_kb": 50.9,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/sekusd/advanced_patterns.py",
+      "remote_path": "pares/sekusd/advanced_patterns.py",
+      "sha256": "5c5434cd1be66224d069b7891c68433780ada41334671b3fa898e1c5548428e8",
+      "size_kb": 11.4,
+      "category": "par_sekusd"
+    },
+    {
+      "local_path": "pares/us30usd/us30quantum_core.py",
+      "remote_path": "pares/us30usd/us30quantum_core.py",
+      "sha256": "f8d92b40b8fd0df9fec3e9f10c4f858b084c25c5a9650d6d8c0890ecbaa7b5ae",
+      "size_kb": 836.8,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30trinity.py",
+      "remote_path": "pares/us30usd/us30trinity.py",
+      "sha256": "422f15fa3f690239807b2fe46f46bb4885dbcef9e25abe2bc8b1df36f86b7ea2",
+      "size_kb": 94.2,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30kraken1.py",
+      "remote_path": "pares/us30usd/us30kraken1.py",
+      "sha256": "83957ca70814f2697272cb117fc9994702d6511445ce0a6e2346e8389b8138ee",
+      "size_kb": 23.2,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm1.py",
+      "remote_path": "pares/us30usd/us30llm1.py",
+      "sha256": "79aea38758c8beac874ace0ae2ae8e0a6e2a2211a3a033d4bab1d5076479aa47",
+      "size_kb": 68.3,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm2.py",
+      "remote_path": "pares/us30usd/us30llm2.py",
+      "sha256": "55957b30bbd8cf22130d7de4e0b796f5b7efd979073a5d732675d24c9b41da90",
+      "size_kb": 36.8,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm3.py",
+      "remote_path": "pares/us30usd/us30llm3.py",
+      "sha256": "9ad4dcd7b9fce6c5f9deb159bbb529753b6f97b922900bb242b9322d4399459e",
+      "size_kb": 46.8,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm4.py",
+      "remote_path": "pares/us30usd/us30llm4.py",
+      "sha256": "77ce24461841a9fe32eff8b96eea42790b5edab9248240943da2a78cf2b45e01",
+      "size_kb": 58.6,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm5.py",
+      "remote_path": "pares/us30usd/us30llm5.py",
+      "sha256": "fbcb724ec62058edfbc4f19fc0ab1ec34263ff9ace9a3b4703d3af6506a90e21",
+      "size_kb": 52.1,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm6.py",
+      "remote_path": "pares/us30usd/us30llm6.py",
+      "sha256": "ac43aa0af04b7a6a926ca79664429d488e580254814598f472eb2eab9f46a3e5",
+      "size_kb": 54.3,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm7.py",
+      "remote_path": "pares/us30usd/us30llm7.py",
+      "sha256": "e06b62d5b3f1f1b08922fc87bf26c473460a68ada3843201acec067b3c07e6c4",
+      "size_kb": 11.7,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm8.py",
+      "remote_path": "pares/us30usd/us30llm8.py",
+      "sha256": "77bcc89ace62016227e0b6eeff45c23ba967c50e10ada2cf206c874211da3556",
+      "size_kb": 14.2,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm9.py",
+      "remote_path": "pares/us30usd/us30llm9.py",
+      "sha256": "6cbe4fd31a58a1711ed6fcf3e471d8c743ce9251a308bfe428c8ddd869b64ded",
+      "size_kb": 27.6,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm10.py",
+      "remote_path": "pares/us30usd/us30llm10.py",
+      "sha256": "ba4b6319cbc9534b70305fc75e4215a87911f3d0610782f71ba2f512519cb9bf",
+      "size_kb": 49.0,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm11.py",
+      "remote_path": "pares/us30usd/us30llm11.py",
+      "sha256": "b8463b2c84ee8ef41b58d6b90f5a66f7835f84289db11a8265cd296f5c5b4244",
+      "size_kb": 81.5,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30llm12.py",
+      "remote_path": "pares/us30usd/us30llm12.py",
+      "sha256": "c2de0f0c370a1f304aab1dc1bf0e9131b565aa59d0f23c8db89c69adb1b90ade",
+      "size_kb": 57.0,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30sound.py",
+      "remote_path": "pares/us30usd/us30sound.py",
+      "sha256": "2268a070242606c31c38110e3df2eb755c239014fc74d494cc2bd125c6de5299",
+      "size_kb": 31.3,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/us30_config_loader.py",
+      "remote_path": "pares/us30usd/us30_config_loader.py",
+      "sha256": "ec69c26accb7f77ecdb1df3d4b60293783e63500bff8850537fd1a5772f9f9ec",
+      "size_kb": 8.5,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/news_intelligence.py",
+      "remote_path": "pares/us30usd/news_intelligence.py",
+      "sha256": "423750d29e13f3ad4be55430f90dd045ee2a4e2aefeca95d5f7b141c1e2124ba",
+      "size_kb": 22.6,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/reinforcement_learning_engine.py",
+      "remote_path": "pares/us30usd/reinforcement_learning_engine.py",
+      "sha256": "71f55c3050b6ad619f851d5a9cbd2b30a205712c0e854c11aefc0ba4a99133a5",
+      "size_kb": 16.8,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/llm_cache_engine.py",
+      "remote_path": "pares/us30usd/llm_cache_engine.py",
+      "sha256": "a42804704e18b564c5bc007d535b4c94b460677c658dc55016949aebbc644b6c",
+      "size_kb": 17.9,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/llm_learning_feedback.py",
+      "remote_path": "pares/us30usd/llm_learning_feedback.py",
+      "sha256": "ac53ae716fb6e43d2190b3fae397a1c571d5b5ce6dc6dcd84f68de3921c5cd5b",
+      "size_kb": 18.9,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/supreme_consciousness.py",
+      "remote_path": "pares/us30usd/supreme_consciousness.py",
+      "sha256": "f1fc84632af718d0f68abb43bb29c41efdfc37849a5ef020c0ab4411717288d8",
+      "size_kb": 50.3,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/us30usd/advanced_patterns.py",
+      "remote_path": "pares/us30usd/advanced_patterns.py",
+      "sha256": "5c5434cd1be66224d069b7891c68433780ada41334671b3fa898e1c5548428e8",
+      "size_kb": 11.4,
+      "category": "par_us30usd"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyquantum_core.py",
+      "remote_path": "pares/usdjpy/jpyquantum_core.py",
+      "sha256": "5851b57b665826e885e73fa61872f67b5c26b146c721b8dc7ec2457dc8796a15",
+      "size_kb": 725.0,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpytrinity.py",
+      "remote_path": "pares/usdjpy/jpytrinity.py",
+      "sha256": "5c4f3bd248364c62f35f9a544ed969a4979f6a1166976179574c168cf1ad9193",
+      "size_kb": 57.5,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpykraken1.py",
+      "remote_path": "pares/usdjpy/jpykraken1.py",
+      "sha256": "62692690055f8ea03b2678c0680c71e48cf405dc7230e3880b6ff57d0aa67c7f",
+      "size_kb": 22.6,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm1.py",
+      "remote_path": "pares/usdjpy/jpyllm1.py",
+      "sha256": "bb593ee761dbfc0e7940e97dfe6307a0438a3a894aedb01ba495d9d19bd87131",
+      "size_kb": 61.4,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm2.py",
+      "remote_path": "pares/usdjpy/jpyllm2.py",
+      "sha256": "a77279ca1499330cd039d222b54cf2a68aaf29ba20cf85c09cb23eb6fef303f1",
+      "size_kb": 30.5,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm3.py",
+      "remote_path": "pares/usdjpy/jpyllm3.py",
+      "sha256": "41fb6920b948f0ad4f5b7dcf08d1507f048e28473b919e40051e906bd4450ef1",
+      "size_kb": 44.3,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm4.py",
+      "remote_path": "pares/usdjpy/jpyllm4.py",
+      "sha256": "7c18be3201bcb1c9ced987eaa7cb8109b937bcdfb45387a4a5c4fac8601cf9c7",
+      "size_kb": 57.7,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm5.py",
+      "remote_path": "pares/usdjpy/jpyllm5.py",
+      "sha256": "8c491a1beef22cdf50cfbfbb08e74457ba2935ddeb23e438c1e9d1398276200c",
+      "size_kb": 53.1,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm6.py",
+      "remote_path": "pares/usdjpy/jpyllm6.py",
+      "sha256": "b90665d1fa4d7b6cd405f3fa74bb1f57b9fcebfc9dfac36554ae9a53e2c5594d",
+      "size_kb": 55.3,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm7.py",
+      "remote_path": "pares/usdjpy/jpyllm7.py",
+      "sha256": "c394df34560defa16643aa45d6c77cd0eadb7b3712692fb469c71b048591169c",
+      "size_kb": 12.6,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm8.py",
+      "remote_path": "pares/usdjpy/jpyllm8.py",
+      "sha256": "292431d70a4f0ca40eb2b0b13d2cca23bcacb9c8b51c347e84e5ea5e280db17f",
+      "size_kb": 13.5,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm9.py",
+      "remote_path": "pares/usdjpy/jpyllm9.py",
+      "sha256": "077cb4f0252a1000a571fb0880350207ec1c934b265e620748ec52d0ac7e3f94",
+      "size_kb": 20.5,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm10.py",
+      "remote_path": "pares/usdjpy/jpyllm10.py",
+      "sha256": "710725f46d8bd316113a1ac7af942d308998054bf1de71ef67f04ab3d28d7cb0",
+      "size_kb": 30.5,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm11.py",
+      "remote_path": "pares/usdjpy/jpyllm11.py",
+      "sha256": "4b9e3b5cd725700b4bbda08b98db6d9761726bde1388228cc64cae09c7a3423e",
+      "size_kb": 83.0,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpyllm12.py",
+      "remote_path": "pares/usdjpy/jpyllm12.py",
+      "sha256": "db9fb61583d0b961df05f0c6d60b1c3999320b455a2e39b0bcb3ed6808a2d5d4",
+      "size_kb": 57.0,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpysound.py",
+      "remote_path": "pares/usdjpy/jpysound.py",
+      "sha256": "d062a2393c3b18c2c4feffba4ec4af836d6dddea0f293cc496a2ba8971697580",
+      "size_kb": 27.3,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/jpy_config_loader.py",
+      "remote_path": "pares/usdjpy/jpy_config_loader.py",
+      "sha256": "9d0c7e60382ac6b0ffd21d7b91567785c1a7eb07db1907ceb69b19c29595b6ba",
+      "size_kb": 8.0,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/news_intelligence.py",
+      "remote_path": "pares/usdjpy/news_intelligence.py",
+      "sha256": "b399597652e6c4bf2ca3e8da288498ae6a225352e39192d17c1e737a191a6407",
+      "size_kb": 26.6,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/reinforcement_learning_engine.py",
+      "remote_path": "pares/usdjpy/reinforcement_learning_engine.py",
+      "sha256": "7211b1238d89814a22138449d0720c6a01bba36b21f42be69f74acd1023b8226",
+      "size_kb": 17.6,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/llm_cache_engine.py",
+      "remote_path": "pares/usdjpy/llm_cache_engine.py",
+      "sha256": "3a04d23e9b5e623cea46a068e735b79050149d9ef4bba12a80483180d11fc875",
+      "size_kb": 17.9,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/llm_learning_feedback.py",
+      "remote_path": "pares/usdjpy/llm_learning_feedback.py",
+      "sha256": "ac53ae716fb6e43d2190b3fae397a1c571d5b5ce6dc6dcd84f68de3921c5cd5b",
+      "size_kb": 18.9,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/usdjpy/advanced_patterns.py",
+      "remote_path": "pares/usdjpy/advanced_patterns.py",
+      "sha256": "5c5434cd1be66224d069b7891c68433780ada41334671b3fa898e1c5548428e8",
+      "size_kb": 11.4,
+      "category": "par_usdjpy"
+    },
+    {
+      "local_path": "pares/xauusd/xauquantum_core.py",
+      "remote_path": "pares/xauusd/xauquantum_core.py",
+      "sha256": "9888f1c32f7c01cb23d612774013d191fbddd95c1fb4e042e9ca78a23e14b03e",
+      "size_kb": 1004.1,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xautrinity.py",
+      "remote_path": "pares/xauusd/xautrinity.py",
+      "sha256": "f1e0896ec220c2708283eccf7d2804cb0037bf04e3998117cb7209f76a9e6e3d",
+      "size_kb": 148.6,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaukraken1.py",
+      "remote_path": "pares/xauusd/xaukraken1.py",
+      "sha256": "e79d95f4e4c47a0bd08c3fac96e9d177322c402e4f184cada78bd85e14306d21",
+      "size_kb": 23.4,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm1.py",
+      "remote_path": "pares/xauusd/xaullm1.py",
+      "sha256": "4e09497a9b6eef2bd77a9d2402357a0a04ba8038d390e2e1be06c378a70542e2",
+      "size_kb": 97.8,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm2.py",
+      "remote_path": "pares/xauusd/xaullm2.py",
+      "sha256": "39610f352bbde0720d0806a61fd1980adfa9893458cd9b6098cc68f8815b2a85",
+      "size_kb": 41.4,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm3.py",
+      "remote_path": "pares/xauusd/xaullm3.py",
+      "sha256": "ad0a8ba78bb451fde07b5f758a0ee3de61e2d619536d8e5172737690dcf9ef11",
+      "size_kb": 60.5,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm4.py",
+      "remote_path": "pares/xauusd/xaullm4.py",
+      "sha256": "895cb5a32b67fad74ae6285d8541e73e05be9bc418e5384eeeda4aa28ed62396",
+      "size_kb": 58.9,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm5.py",
+      "remote_path": "pares/xauusd/xaullm5.py",
+      "sha256": "40079be4f6aa173451c469bad35bae86ed98d18dc8d2b82b1c270d43f56cfdd4",
+      "size_kb": 63.0,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm6.py",
+      "remote_path": "pares/xauusd/xaullm6.py",
+      "sha256": "5e33ade7ce4e7940e7a7cddc6c3ae53a5ba05f2637db7791a42a09a7d7badb07",
+      "size_kb": 66.5,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm7.py",
+      "remote_path": "pares/xauusd/xaullm7.py",
+      "sha256": "1e02711929c010b4878d0600db884ccc8549bab670b6dcbc90786217d1e53e6e",
+      "size_kb": 11.8,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm8.py",
+      "remote_path": "pares/xauusd/xaullm8.py",
+      "sha256": "1ce2d11d6913664f6f736fcb3b275afb6e232c200dd8dae3fc893777454638ba",
+      "size_kb": 30.4,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm9.py",
+      "remote_path": "pares/xauusd/xaullm9.py",
+      "sha256": "5632cfbeb129677047c54c4e306d76265bcacc0d147a77800c92420315914611",
+      "size_kb": 43.6,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm10.py",
+      "remote_path": "pares/xauusd/xaullm10.py",
+      "sha256": "86cbc9777e91f31a965192948d1cd8dbae75dc72abf13c01af71ae3925565a41",
+      "size_kb": 53.2,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm11.py",
+      "remote_path": "pares/xauusd/xaullm11.py",
+      "sha256": "f8c98101f7e5734ba4e1b1459423b8d266e2d038353b80c17ebe649556963c67",
+      "size_kb": 145.5,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xaullm12.py",
+      "remote_path": "pares/xauusd/xaullm12.py",
+      "sha256": "4482c6ca8bb8506ac37d3bed3906be5ace531507ec9b593b8289ad5896684fb0",
+      "size_kb": 57.3,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/xausound.py",
+      "remote_path": "pares/xauusd/xausound.py",
+      "sha256": "8f33b7538384ef87fae091b385d3c5aa109d6f035e642c7c938f011ea8c14b8f",
+      "size_kb": 35.5,
+      "category": "par_xauusd"
+    },
+    {
+      "local_path": "pares/xauusd/news_intelligence.py",
+      "remote_path": "pares/xauusd/news_intelligence.py",
+      "sha256": "071e178aef644ef727ddf736d7483d6ed19f034dc06efb1c8496af5ef914a692",
+      "size_kb": 27.9,
+      "category": "par_xauusd"
     }
   ]
 }
