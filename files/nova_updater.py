@@ -44,11 +44,11 @@ GITHUB_USER   = "raulenriqe-cyber"
 GITHUB_REPO   = "nova-updates"
 MANIFEST_URL  = (
     f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}"
-    f"/main/releases/version_manifest.json"
+    f"/main/version_manifest.json"
 )
 DOWNLOAD_BASE = (
     f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}"
-    f"/main/releases/files"
+    f"/main/files"
 )
 CHECK_TIMEOUT = 8    # segundos para conectar con GitHub
 DOWNLOAD_TIMEOUT = 30
