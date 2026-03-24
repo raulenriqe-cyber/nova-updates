@@ -65,12 +65,23 @@ def _get_install_dir() -> Path:
     """
     Devuelve el directorio donde están los archivos actualizables.
     - Si está frozen (exe compilado): directorio _internal/ junto al exe
+      Soporta dos estructuras:
+        A) exe/_internal/Nova_v5.py           (NOVAInstaller directo)
+        B) exe/_internal/NOVA_bundle/...      (estructura doble)
+      En ambos casos los archivos .py están en _internal/ del NOVAInstaller.
     - Si está en modo desarrollo: directorio del script
     """
     if getattr(sys, "frozen", False):
-        # exe compilado por PyInstaller
         exe_dir = Path(sys.executable).parent
+        # Caso A: _internal/ junto al exe actual
         internal = exe_dir / "_internal"
+        if (internal / "Nova_v5.py").exists() or (internal / "nova_dashboard.py").exists():
+            return internal
+        # Caso B: el exe está dentro de NOVA_bundle, subir un nivel
+        parent_internal = exe_dir.parent.parent / "_internal"
+        if parent_internal.exists():
+            return parent_internal
+        # Fallback
         return internal if internal.exists() else exe_dir
     else:
         # modo desarrollo
